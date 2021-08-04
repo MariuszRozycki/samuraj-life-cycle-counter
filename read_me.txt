@@ -1,0 +1,1 @@
+Example helps to understand method componentDidUpdate();
